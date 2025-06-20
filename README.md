@@ -41,11 +41,6 @@ Scroll through the repositories and language stats.
 📦 Sample GitHub API Endpoint Used
 GET https://api.github.com/users/(Madhun13}
 
-5. 🎯 Future Enhancements
-Dark mode support
-Error handling for API rate limits and invalid usernames
-Search history and favorites
-
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to open a pull request or fork this repo.
