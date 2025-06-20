@@ -6,7 +6,8 @@ Dev Detection is a web-based application that analyzes GitHub user data to provi
 
 - Search GitHub users by username
 - Display profile information: avatar, bio, followers, following
-- List of public repositories
+- supports dark mode
+- Number of public repositories
 - Most used programming languages
 - Repository activity statistics (stars, forks, etc.)
 - Clean and responsive UI
