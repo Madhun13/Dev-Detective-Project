@@ -27,21 +27,19 @@ Dev Detection is a web-based application that analyzes GitHub user data to provi
    git clone https://github.com/yourusername/dev-detection.git
    cd dev-detection
 
-
-3. Open the app
-
+2. **Open the app**
 Just open index.html in your web browser – no server setup needed.
 
-4. 🛠️ Usage
+3. 🛠️ **Usage**
 Enter a valid GitHub username in the input field.
 
 Hit "Search" to fetch and display the user's data.
 
 Scroll through the repositories and language stats.
 
-📦 Sample GitHub API Endpoint Used
+4. **Sample GitHub API Endpoint Used**
 GET https://api.github.com/users/(Madhun13}
 
-🤝 Contributing
+5. 🤝**Contributing**
 Contributions, issues, and feature requests are welcome!
 Feel free to open a pull request or fork this repo.
