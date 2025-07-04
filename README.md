@@ -24,7 +24,7 @@ Dev Detection is a web-based application that analyzes GitHub user data to provi
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/dev-detection.git
+   git clone https://github.com/madhun13/dev-detection.git
    cd dev-detection
 
 2. **Open the app**
