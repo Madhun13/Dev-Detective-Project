@@ -1,6 +1,6 @@
-# Dev Detection
+# Github Explorer 
 
-Dev Detection is a web-based application that analyzes GitHub user data to provide insights about developers — including their activity, top repositories and overall coding trends.
+Github Explorer is a web-based application that analyzes GitHub user data to provide insights about developers — including their activity, top repositories and overall coding trends.
 
 ## 🔍 Features
 
@@ -24,7 +24,7 @@ Dev Detection is a web-based application that analyzes GitHub user data to provi
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Madhun13/dev-detection.git
+   git clone https://github.com/Madhun13/GitHub_explorer.git
    cd dev-detection
 
 2. **Open the app**
