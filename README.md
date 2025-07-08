@@ -38,7 +38,7 @@ Github Explorer is a web-based application that analyzes GitHub user data to pro
 Scroll through the repositories and language stats.
 
 4. **Sample GitHub API Endpoint Used**
-  GET https://api.github.com/users/(Madhun13}
+  GET https://api.github.com/users/Madhun13
 
 5. 🤝**Contributing**
   Contributions, issues, and feature requests are welcome!
