@@ -25,7 +25,7 @@ Github Explorer is a web-based application that analyzes GitHub user data to pro
 
    ```bash
    git clone https://github.com/Madhun13/GitHub_explorer.git
-   cd dev-detection
+   cd GitHub_explorer
 
 2. **Open the app**
    Just open index.html in your web browser – no server setup needed.
